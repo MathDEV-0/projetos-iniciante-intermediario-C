@@ -9,4 +9,4 @@ Este repositório contém projetos de programação simples/intermediárias, env
 ## Instalação
 1. Clone o repositório
    ```sh
-   [git clone https://github.com/seu-usuario/projetos-iniciante-intermediario-C.git](https://github.com/MathDEV-0/projetos-iniciante-intermediario-C.git)
+   (https://github.com/MathDEV-0/projetos-iniciante-intermediario-C.git)
